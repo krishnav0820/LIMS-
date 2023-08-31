@@ -1,1 +1,1 @@
-# LIMS-
+Laboratory Information management System # LIMS-
